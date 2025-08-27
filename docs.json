@@ -1,0 +1,18 @@
+{
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Essentials",
+            "pages": []
+          }
+        ]
+      }
+    ]
+  },
+  "global": {
+    "anchors": []
+  }
+}
